@@ -1,5 +1,3 @@
-require "pry"
-
 def say(message)
   puts "--#{message}--"
 end
